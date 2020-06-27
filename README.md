@@ -1,4 +1,3 @@
-# BC_OCR
 
 # FastRCNN
       可同时实现检测和分类任务，
